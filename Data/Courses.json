@@ -1,37 +1,37 @@
 [
     {
         "id": "01",
-        "pic": "./Picture/computerNetworking.jpg",
+        "img": "https://thumbs2.imgbox.com/ff/f2/7MfNea1g_t.jpg",
         "name": "Computer Networking",
         "detail": "A computer network is a system that connects two or more computing devices for transmitting and sharing information. Computing devices include everything from a mobile phone to a server. These devices are connected using physical wires such as fiber optics, but they can also be wireless. The first working network, called ARPANET, was created in the late 1960s and was funded by the U.S. Department of Defense. Government researchers used to share information at a time when computers were large and difficult to move. We have come a long way today from that basic kind of network. Today’s world revolves around the internet, which is a network of networks that connects billions of devices across the world. Organizations of all sizes use networks to connect their employees’ devices and shared resources such as printers."
     },
     {
         "id": "02",
-        "pic": "./Picture/Machine-Learning.png",
+        "img": "https://thumbs2.imgbox.com/68/d3/IQIXEiby_t.png",
         "name": "Machine Learning",
         "detail": "Machine learning is an exciting branch of Artificial Intelligence, and it’s all around us. Machine learning brings out the power of data in new ways, such as Facebook suggesting articles in your feed. This amazing technology helps computer systems learn and improve from experience by developing computer programs that can automatically access data and perform tasks via predictions and detections. As you input more data into a machine, this helps the algorithms teach the computer, thus improving the delivered results. When you ask Alexa to play your favorite music station on Amazon Echo, she will go to the station you played most often. You can further improve and refine your listening experience by telling Alexa to skip songs, adjust the volume, and many more possible commands. Machine Learning and the rapid advance of Artificial Intelligence makes this all possible."
     },
     {
         "id": "03",
-        "pic": "./Picture/DSA.jpg",
+        "img": "https://thumbs2.imgbox.com/ca/e9/djbTv2sT_t.jpg",
         "name": "Algorithms & Data Structures",
         "detail": "A data structure is a method of organizing data in a virtual system. Think of sequences of numbers, or tables of data: these are both well-defined data structures. An algorithm is a sequence of steps executed by a computer that takes an input and transforms it into a target output. Together, data structures and algorithms combine and allow programmers to build whatever computer programs they’d like. Deep study into data structures and algorithms ensures well-optimized and efficient code. Data structures and algorithms are a critical part of a computer science education, though not something that most bootcamps graduates or self-taught people will know very well. There are many algorithms for different purposes. They interact with different data structures in the same computational complexity scale. Think of algorithms as dynamic underlying pieces that interact with static data structures."
     },
     {
         "id": "04",
-        "pic": "./Picture/Data-science.jpg",
+        "img": "https://thumbs2.imgbox.com/1f/56/lHdcw8zT_t.jpg",
         "name": "Data Science",
         "detail": "Data science is the study of data to extract meaningful insights for business. It is a multidisciplinary approach that combines principles and practices from the fields of mathematics, statistics, artificial intelligence, and computer engineering to analyze large amounts of data. This analysis helps data scientists to ask and answer questions like what happened, why it happened, what will happen, and what can be done with the results. Data science is important because it combines tools, methods, and technology to generate meaning from data. Modern organizations are inundated with data; there is a proliferation of devices that can automatically collect and store information. Online systems and payment portals capture more data in the fields of e-commerce, medicine, finance, and every other aspect of human life. We have text, audio, video, and image data available in vast quantities."
     },
     {
         "id": "05",
-        "pic": "./Picture/cyberSecurity.jpg",
+        "img": "https://thumbs2.imgbox.com/21/24/Wvo4AQZo_t.jpg",
         "name": "CyberSecurity",
         "detail": "Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users via ransomware; or interrupting normal business processes. Implementing effective cybersecurity measures is particularly challenging today because there are more devices than people, and attackers are becoming more innovative. Technology is essential to giving organizations and individuals the computer security tools needed to protect themselves from cyber attacks. Three main entities must be protected: endpoint devices like computers, smart devices, and routers; networks; and the cloud. Common technology used to protect these entities include next-generation firewalls, DNS filtering, malware protection, antivirus software, and email security solutions."
     },
     {
         "id": "06",
-        "pic": "./Picture/artificialintelligence.jpg",
+        "img": "https://thumbs2.imgbox.com/12/bb/rCKqYMRS_t.jpg",
         "name": "Artificial Intelligence",
         "detail": "Artificial intelligence (AI) is a wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. While AI is an interdisciplinary science with multiple approaches, advancements in machine learning and deep learning, in particular, are creating a paradigm shift in virtually every sector of the tech industry. Artificial intelligence allows machines to model, or even improve upon, the capabilities of the human mind. And from the development of self-driving cars to the proliferation of smart assistants like Siri and Alexa, AI is increasingly becoming part of everyday life — and an area companies across every industry are investing in."
     }
